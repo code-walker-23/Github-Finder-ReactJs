@@ -6,9 +6,9 @@ const About = () => {
         A React app to search GitHub profiles and see profile details. This
         project is created by
         <strong>
-          <a href='https://github.com/Rahul-Chhabra-27/Github-Finder-ReactJs'>
+          <a href='https://github.com/code-walker-23/Github-Finder-ReactJs'>
             {" "}
-            Rahul Chhabra{" "}
+            Vinay Chhabra{" "}
           </a>
         </strong>
         .
@@ -20,9 +20,9 @@ const About = () => {
         Layout By:
         <a
           className='text-white'
-          href='https://github.com/Rahul-Chhabra-27/Github-Finder-ReactJs'
+          href='https://github.com/code-walker-23/Github-Finder-ReactJs'
         >
-          Rahul Chhabra
+          Vinay Chhabra
         </a>
       </p>
     </>
